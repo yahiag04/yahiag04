@@ -1,6 +1,6 @@
 # Yahia Ghallale
 
-AI Engineering student. Focus: CV, applied ML, AI systems, IoT.
+Computer Science and Engineering student, AI/Computer Intern Intern. Focus: CV, applied ML, AI systems, IoT.
 
 **Working on:** object detection/tracking, medical imaging CNNs, RAG/semantic search, model-serving backends, IoT.  
 **Stack:** Python, C/C++, PyTorch, OpenCV, Node.js, PostgreSQL, Docker, Git.  
