@@ -1,16 +1,28 @@
 # Yahia Ghallale
 
-Computer Science and Engineering student, AI & Computer Vision Intern. Focus: CV, applied ML, AI systems, IoT.
+**Applied AI / Software Engineer** — focused on edge inference, computer vision, and real-time perception systems.  
+Computer Engineering student at the University of Brescia. Currently CV Engineering Intern at Prospecto, working on real-time perception for agricultural robotics.
 
-| Project | Keywords |
-|---|---|
-| Object Detection & Tracking | YOLOv8, ByteTrack, OpenCV, real-time inference |
-| Medical Imaging CNN | Segmentation, classification, PyTorch, DICOM |
-| RAG / LLM | LangChain, embeddings, vector DB, retrieval |
-| Model-Serving Backend | FastAPI, Docker, REST API, latency optimization |
-| IoT System | MQTT, edge inference, C/C++, sensor fusion |
+## What I'm working on
 
-**Stack:** Python, C/C++, PyTorch, OpenCV, Node.js, PostgreSQL, Docker, Git.  
-**Contact:** LinkedIn: https://www.linkedin.com/in/yahiaghallale | Email: y.ghallale@studenti.unibs.it
+| Project | Stack | Result |
+|---|---|---|
+| **[UAV Flight Anomaly Detection](https://github.com/yahiag04/flight-log-analyzer)** | OCSVM, PCA-AE, LSTM-AE, Isolation Forest, Streamlit | Unsupervised ML on real PX4 flight logs, **0.940 AUC** held-out |
+| **Live in-row crop classifier** (@ Prospecto) | MobileNetV3-Small, ONNX Runtime, ROS 2, Jetson Nano | **95.9% macro-F1**, **51 FPS** end-to-end |
+| **[Sentinel — Geopolitical RAG](https://github.com/yahiag04/sentinel)** | FastAPI, ChromaDB, Redis, PostgreSQL, Docker | End-to-end retrieval pipeline for geopolitical analysis |
+| **[Medical Triage AI](https://github.com/yahiag04/medical-triage)** | PyTorch CNN, FastAPI | **0.941 ROC-AUC** pneumonia detection on chest X-rays |
 
-If you’re interested in applied AI, computer vision, or building real systems, feel free to reach out.
+## Interests
+
+edge ML deployment, deep learning systems, computer vision
+
+## Stack
+
+**Languages:** Python, C++, C, TypeScript, SQL  
+**ML / Edge:** PyTorch, ONNX Runtime, ROS 2, NVIDIA Jetson, OpenCV  
+**Backend:** FastAPI, Next.js, Node.js, PostgreSQL, Redis, Docker  
+**Embedded:** ESP32, STM32
+
+## Contact
+
+[Website](https://yahiaghallale.com) · [LinkedIn](https://www.linkedin.com/in/yahiaghallale) · y.ghallale@studenti.unibs.it
