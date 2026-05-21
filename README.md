@@ -3,7 +3,7 @@
 **Applied AI / Software Engineer** — focused on edge inference, computer vision, and real-time perception systems.  
 Computer Engineering student at the University of Brescia. Currently CV Engineering Intern at Prospecto, working on real-time perception for agricultural robotics.
 
-## What I'm working on
+## Projects i worked on
 
 | Project | Stack | Result |
 |---|---|---|
