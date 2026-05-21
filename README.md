@@ -7,7 +7,7 @@ Computer Engineering student at the University of Brescia.
 | Project | Stack | Result |
 |---|---|---|
 | **[UAV Flight Anomaly Detection](https://github.com/yahiag04/flight-log-anomaly-ml.git)** | OCSVM, PCA-AE, LSTM-AE, Isolation Forest, Streamlit | Unsupervised ML on real PX4 flight logs, **0.940 AUC** held-out |
-| **Live in-row crop classifier** (@ Prospecto) | MobileNetV3-Small, ONNX Runtime, ROS 2, Jetson Nano | **95.9% macro-F1**, **51 FPS** end-to-end |
+| **Agritech AI** | MobileNetV3-Small, ONNX Runtime, ROS 2, Jetson Nano , BoT-Sort, RF-DETR| **95.9% macro-F1**, **51 FPS** end-to-end |
 | **[Sentinel — Geopolitical RAG](https://github.com/yahiag04/sentinel)** | FastAPI, ChromaDB, Redis, PostgreSQL, Docker | End-to-end retrieval pipeline for geopolitical analysis |
 | **[Medical Triage AI](https://github.com/yahiag04/Med-AI)** | PyTorch CNN, FastAPI | **0.941 ROC-AUC** pneumonia detection on chest X-rays |
 
