@@ -39,10 +39,10 @@ CNN-based pneumonia detection on chest X-rays, served through a FastAPI endpoint
 <tr>
 <td width="50%" valign="top">
 
-### 🎧 [Counter-UAS Acoustic Detection](https://github.com/yahiag04/acoustic-uas-benchmark)
-Binary drone/no-drone audio classifier with threshold-aware detection metrics, false-alarm analysis, and inference-latency benchmarking.
+### 🩻 [Pneumonia CXR Generalization](https://github.com/yahiag04/pneumonia-cxr-generalization)
+Thesis research on cross-dataset generalization: 5 CNN architectures benchmarked across 3 independent chest X-ray datasets, with calibration analysis and statistical significance testing (McNemar, DeLong).
 
-Latency-aware evaluation &nbsp;·&nbsp; `Python` `PyTorch` `CNN`
+**0.990 ROC-AUC** internal &nbsp;·&nbsp; `Python` `PyTorch` `SciPy`
 
 </td>
 <td width="50%" valign="top">
