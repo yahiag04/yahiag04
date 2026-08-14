@@ -17,13 +17,54 @@ Computer Science and Engineering student at the Università degli Studi di Bresc
 
 ## Featured projects
 
-| Project | Stack | Result |
-|---|---|---|
-| **[UAV Flight Anomaly Detection](https://github.com/yahiag04/flight-log-anomaly-ml)** | OCSVM, PCA-AE, LSTM-AE, Isolation Forest, Streamlit | Unsupervised ML on real PX4 flight logs — **0.940 AUC** held-out |
-| **[Medical Triage AI](https://github.com/yahiag04/Med-AI)** | PyTorch CNN, FastAPI | **0.941 ROC-AUC** pneumonia detection on chest X-rays |
-| **[Sentinel — Geopolitical RAG](https://github.com/yahiag04/Sentinel)** | FastAPI, ChromaDB, Redis, PostgreSQL, Docker | End-to-end retrieval pipeline for geopolitical analysis |
-| **[Semantic Search Engine](https://github.com/yahiag04/scrape-embed-search)** | Playwright, Sentence Transformers, Streamlit | Built from scratch: scraped 1,000+ books, embedded, ranked by cosine similarity |
-| **[EnvMonitor](https://github.com/yahiag04/EnvMonitor)** | ESP32, C++, Node.js | Edge environmental monitoring with live telemetry dashboard and on-device alerting |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛩️ [UAV Flight Anomaly Detection](https://github.com/yahiag04/flight-log-anomaly-ml)
+Unsupervised anomaly detection on real PX4 flight logs — OCSVM, PCA-AE, LSTM-AE, and Isolation Forest compared head-to-head.
+
+**0.940 AUC** held-out &nbsp;·&nbsp; `Python` `scikit-learn` `PyTorch` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 [Medical Triage AI](https://github.com/yahiag04/Med-AI)
+CNN-based pneumonia detection on chest X-rays, served through a FastAPI endpoint to support clinical triage decisions.
+
+**0.941 ROC-AUC** &nbsp;·&nbsp; `Python` `PyTorch` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 [Counter-UAS Acoustic Detection](https://github.com/yahiag04/acoustic-uas-benchmark)
+Binary drone/no-drone audio classifier with threshold-aware detection metrics, false-alarm analysis, and inference-latency benchmarking.
+
+Latency-aware evaluation &nbsp;·&nbsp; `Python` `PyTorch` `CNN`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 [Sentinel — Geopolitical RAG](https://github.com/yahiag04/Sentinel)
+End-to-end retrieval-augmented pipeline over a vector-indexed document corpus for geopolitical analysis.
+
+`FastAPI` `ChromaDB` `Redis` `PostgreSQL` `Docker`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📡 [EnvMonitor](https://github.com/yahiag04/EnvMonitor)
+ESP32-based environmental monitoring system — calibrated CO sensing (MQ-7), ratio-based alerting, and a live telemetry dashboard streaming to a Node.js backend.
+
+`ESP32` `C++` `Node.js`
+
+</td>
+</tr>
+</table>
 
 ## Stack
 
