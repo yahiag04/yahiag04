@@ -29,28 +29,28 @@ Unsupervised anomaly detection on real PX4 flight logs — OCSVM, PCA-AE, LSTM-A
 </td>
 <td width="50%" valign="top">
 
-### 🩺 [Medical Triage AI](https://github.com/yahiag04/Med-AI)
-CNN-based pneumonia detection on chest X-rays, served through a FastAPI endpoint to support clinical triage decisions.
-
-**0.941 ROC-AUC** &nbsp;·&nbsp; `Python` `PyTorch` `FastAPI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🩻 [Pneumonia CXR Generalization](https://github.com/yahiag04/pneumonia-cxr-generalization)
 Thesis research on cross-dataset generalization: 5 CNN architectures benchmarked across 3 independent chest X-ray datasets, with calibration analysis and statistical significance testing (McNemar, DeLong).
 
 **0.990 ROC-AUC** internal &nbsp;·&nbsp; `Python` `PyTorch` `SciPy`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔎 [Sentinel — Geopolitical RAG](https://github.com/yahiag04/Sentinel)
 End-to-end retrieval-augmented pipeline over a vector-indexed document corpus for geopolitical analysis.
 
 `FastAPI` `ChromaDB` `Redis` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 [Prenoting](https://github.com/brahimgrr/Prenoting)
+Role-based medical appointment booking platform — patient and doctor dashboards, an availability-block calendar, and a multi-step booking wizard.
+
+`Laravel` `PHP` `MySQL`
 
 </td>
 </tr>
@@ -79,8 +79,9 @@ ESP32-based environmental monitoring system — calibrated CO sensing (MQ-7), ra
 ## GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yahiag04&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Yahia's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahiag04&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
+  <img src="https://img.shields.io/github/followers/yahiag04?label=Followers&style=for-the-badge&color=0A66C2&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyahiag04&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=2ea44f&logo=github&logoColor=white" alt="Public repos"/>
+  <img src="https://img.shields.io/badge/Top%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Top language"/>
 </p>
 
 ---
