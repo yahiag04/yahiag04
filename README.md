@@ -1,7 +1,7 @@
 # Hi, I'm Yahia 👋
 
 **Applied AI / ML Engineer** — edge inference, computer vision, and real-time perception systems.
-Computer Science and Engineering student at the Università degli Studi di Brescia.
+High Performance Computing student at Politecnico di Milano.
 
 <p>
   <a href="https://yahiaghallale.com"><img src="https://img.shields.io/badge/Website-yahiaghallale.com-2ea44f?style=flat-square" alt="Website"/></a>
