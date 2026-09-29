@@ -8,21 +8,6 @@ MSc student in **High Performance Computing** at Politecnico di Milano, focused 
 
 ---
 
-## About
-
-My work sits at the intersection of **machine learning, computer vision, and systems engineering**.
-
-I am particularly interested in:
-
-- Efficient inference on constrained hardware
-- Computer vision and real-time perception
-- ML deployment and model serving
-- GPU and memory-efficient systems
-- High-performance and parallel computing
-- Retrieval and backend infrastructure for AI applications
-
-I care about the full ML lifecycle: from experimentation and statistical evaluation to deployment, latency, and production infrastructure.
-
 ## Selected Projects
 
 ### [UAV Flight Anomaly Detection](https://github.com/yahiag04/flight-log-anomaly-ml)
